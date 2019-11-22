@@ -1,6 +1,6 @@
 # SaSS
 
-## Variable naming
+## Variables
 
 ### Global variables
 

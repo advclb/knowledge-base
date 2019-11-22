@@ -12,4 +12,4 @@ You don't branch. Everything is directly committed to master branch. It is only 
 
 ### GitFlow
 
-[GitFlow: a successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) is for libraries and SasS applications where you need to maintain different release branches at the same time. It is rarely used in today's industry. But it shows you some good things of Git.
+[GitFlow](https://nvie.com/posts/a-successful-git-branching-model/) is for libraries and SasS applications where you need to maintain different release branches at the same time. It is rarely used in today's industry. But it shows you some good things of Git.

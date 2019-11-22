@@ -10,6 +10,12 @@ Format `${property}-{variant}`.
 $color-white: #ffffff;
 $font-family-sans: Lato, sans-serif;
 $border-width-thin: 1px;
+
+$space-s: 5px;
+$space-m: 10px;
+$space-l: 20px;
+$space-xl: 35px;
+$space-xxl: 50px;
 ```
 
 ### Component variables

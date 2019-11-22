@@ -4,7 +4,7 @@
 
 ### NoFlow
 
-You don't branch. Everything is directly committed to master branch. It is only used when you are the only developer in the project and here isn't code reviews by others.
+You don't branch. Everything is directly committed to master branch. It is only used when you are the only developer in the project and here isn't code reviews by others. **Don't use it in teams of any sizes**.
 
 ### OneFlow
 
@@ -12,4 +12,4 @@ You don't branch. Everything is directly committed to master branch. It is only 
 
 ### GitFlow
 
-[GitFlow](https://nvie.com/posts/a-successful-git-branching-model/) is for libraries and SasS applications where you need to maintain different release branches at the same time. It is rarely used in today's industry. But it shows you some good things of Git.
+[GitFlow](https://nvie.com/posts/a-successful-git-branching-model/) is for libraries and SasS applications where you need to maintain different release branches at the same time. It is rarely used in today's industry. But it shows you some good things of Git. **Don't use it**.

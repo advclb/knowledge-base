@@ -20,10 +20,11 @@ $space-xxl: 50px;
 
 ### Component variables
 
-Format `${component}-{variant?}-{state?}-{property}`.
+Format `${component}-{variant?}-{state?}-{property}`. Sizes and colors must fall into a global variable.
 
 ```scss
-$button-border-width: 1px;
-$button-small-padding: 3px;
-$button-primary-hover-background: #f0f0f0;
+$button-border-width: $border-thin;
+$button-small-padding: $space-s;
+$button-primary-background: $color-gray-20;
+$button-primary-hover-background: $color-gray-10;
 ```

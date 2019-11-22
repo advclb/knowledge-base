@@ -1,6 +1,6 @@
 # Git
 
-## Branching
+## Branching mode and workflow
 
 ### NoFlow
 

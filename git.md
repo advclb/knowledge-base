@@ -8,7 +8,7 @@ You don't branch. Everything is directly committed to master branch. It is only 
 
 ### OneFlow
 
-[OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow) is a simple yet useful Git branching model and workflow. You only maintain one branch: master. Each feature branch was forked from master and will then be merged back to master. It fits GitHub/GitLab/BitBucket perfectly. **Recommended for most projects**.
+[OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow) is a simple yet useful Git branching model and workflow. You only maintain one branch: master. Each feature branch was forked from master and will then be merged back to master. It fits GitHub/GitLab/BitBucket perfectly. If the project is deployed automatically from master branch, the master + develop variant model is safer. **Recommended for most projects**.
 
 ### GitFlow
 

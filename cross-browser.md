@@ -4,6 +4,7 @@
 
 - [Browserslist](https://github.com/browserslist/browserslist) is a collection of front-end development tools that help you to auto-prefix CSS vendor properties and identify compatibility issues in your code.
 - [Can I use...](https://caniuse.com/) is an online tool to search HTML/CSS/JS features' browser compatibility.
+- [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 - [BrowserStack](https://www.browserstack.com/) is a tool to test many browsers and devices without testing machines and virtual machines.
 
 ## What browsers should we support?
